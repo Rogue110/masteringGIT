@@ -1,7 +1,6 @@
 ##welcome to git
 
 this is coming from anuj
-
-hello git
+yo ved here
 
 i'm adding this from feature branch
